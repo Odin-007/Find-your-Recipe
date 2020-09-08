@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Odin-007/Find-your-Recipe.git/static/css/main.8dcf8595.chunk.css",
-    "main.js": "/Odin-007/Find-your-Recipe.git/static/js/main.203881a3.chunk.js",
-    "main.js.map": "/Odin-007/Find-your-Recipe.git/static/js/main.203881a3.chunk.js.map",
-    "runtime-main.js": "/Odin-007/Find-your-Recipe.git/static/js/runtime-main.a7ec7478.js",
-    "runtime-main.js.map": "/Odin-007/Find-your-Recipe.git/static/js/runtime-main.a7ec7478.js.map",
-    "static/js/2.55f760c8.chunk.js": "/Odin-007/Find-your-Recipe.git/static/js/2.55f760c8.chunk.js",
-    "static/js/2.55f760c8.chunk.js.map": "/Odin-007/Find-your-Recipe.git/static/js/2.55f760c8.chunk.js.map",
-    "index.html": "/Odin-007/Find-your-Recipe.git/index.html",
-    "precache-manifest.ee0ce4e3385dc675d331d9030826fc74.js": "/Odin-007/Find-your-Recipe.git/precache-manifest.ee0ce4e3385dc675d331d9030826fc74.js",
-    "service-worker.js": "/Odin-007/Find-your-Recipe.git/service-worker.js",
-    "static/css/main.8dcf8595.chunk.css.map": "/Odin-007/Find-your-Recipe.git/static/css/main.8dcf8595.chunk.css.map",
-    "static/js/2.55f760c8.chunk.js.LICENSE.txt": "/Odin-007/Find-your-Recipe.git/static/js/2.55f760c8.chunk.js.LICENSE.txt"
+    "main.css": "/Find-your-Recipe/static/css/main.f97e0648.chunk.css",
+    "main.js": "/Find-your-Recipe/static/js/main.5435db94.chunk.js",
+    "main.js.map": "/Find-your-Recipe/static/js/main.5435db94.chunk.js.map",
+    "runtime-main.js": "/Find-your-Recipe/static/js/runtime-main.28ddfd00.js",
+    "runtime-main.js.map": "/Find-your-Recipe/static/js/runtime-main.28ddfd00.js.map",
+    "static/js/2.55f760c8.chunk.js": "/Find-your-Recipe/static/js/2.55f760c8.chunk.js",
+    "static/js/2.55f760c8.chunk.js.map": "/Find-your-Recipe/static/js/2.55f760c8.chunk.js.map",
+    "index.html": "/Find-your-Recipe/index.html",
+    "precache-manifest.66641b6feb55b53294dc8dba6198ae70.js": "/Find-your-Recipe/precache-manifest.66641b6feb55b53294dc8dba6198ae70.js",
+    "service-worker.js": "/Find-your-Recipe/service-worker.js",
+    "static/css/main.f97e0648.chunk.css.map": "/Find-your-Recipe/static/css/main.f97e0648.chunk.css.map",
+    "static/js/2.55f760c8.chunk.js.LICENSE.txt": "/Find-your-Recipe/static/js/2.55f760c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7ec7478.js",
+    "static/js/runtime-main.28ddfd00.js",
     "static/js/2.55f760c8.chunk.js",
-    "static/css/main.8dcf8595.chunk.css",
-    "static/js/main.203881a3.chunk.js"
+    "static/css/main.f97e0648.chunk.css",
+    "static/js/main.5435db94.chunk.js"
   ]
 }
