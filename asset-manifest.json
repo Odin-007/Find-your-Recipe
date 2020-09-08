@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Odin-007/Find-your-Recipe.git/static/css/main.8dcf8595.chunk.css",
+    "main.js": "/git@github.com:Odin-007/Find-your-Recipe.git/static/js/main.c64e1d19.chunk.js",
+    "main.js.map": "/git@github.com:Odin-007/Find-your-Recipe.git/static/js/main.c64e1d19.chunk.js.map",
+    "runtime-main.js": "/git@github.com:Odin-007/Find-your-Recipe.git/static/js/runtime-main.4333678d.js",
+    "runtime-main.js.map": "/git@github.com:Odin-007/Find-your-Recipe.git/static/js/runtime-main.4333678d.js.map",
+    "static/js/2.55f760c8.chunk.js": "/git@github.com:Odin-007/Find-your-Recipe.git/static/js/2.55f760c8.chunk.js",
+    "static/js/2.55f760c8.chunk.js.map": "/git@github.com:Odin-007/Find-your-Recipe.git/static/js/2.55f760c8.chunk.js.map",
+    "index.html": "/git@github.com:Odin-007/Find-your-Recipe.git/index.html",
+    "precache-manifest.a28a129d44e64866c93b69cc269a7976.js": "/git@github.com:Odin-007/Find-your-Recipe.git/precache-manifest.a28a129d44e64866c93b69cc269a7976.js",
+    "service-worker.js": "/git@github.com:Odin-007/Find-your-Recipe.git/service-worker.js",
+    "static/css/main.8dcf8595.chunk.css.map": "/git@github.com:Odin-007/Find-your-Recipe.git/static/css/main.8dcf8595.chunk.css.map",
+    "static/js/2.55f760c8.chunk.js.LICENSE.txt": "/git@github.com:Odin-007/Find-your-Recipe.git/static/js/2.55f760c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4333678d.js",
+    "static/js/2.55f760c8.chunk.js",
+    "static/css/main.8dcf8595.chunk.css",
+    "static/js/main.c64e1d19.chunk.js"
+  ]
+}
